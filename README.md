@@ -22,30 +22,35 @@ and maintain a personal bookshelf in the browser using localStorage.
 
 1. **Clone the Repository:**
 
-```bash
-   git clone https://github.com/RishivinKannan/personal_bookshelf.git
-```
+
+    ```bash
+      git clone https://github.com/RishivinKannan/personal_bookshelf.git
+    ```
 
 2. **Navigate to the Project Directory:**
 
-```bash
- cd <project_directory>
-```
+
+    ```bash
+    cd <project_directory>
+    ```
 
 3. **Install Dependencies**
 
-```bash
- npm install
-```
+
+    ```bash
+    npm install
+    ```
 
 ### Running the Application:
 
 1. **Start the Development Server:**
 
-```bash
-   npm run dev
-```
+
+    ```bash
+      npm run dev
+    ```
 
 2. **View the Application:**
 
-Open your web browser and go to `http://localhost:3000` (by default, unless configured otherwise).
+
+    Open your web browser and go to `http://localhost:3000` (by default, unless configured otherwise).
