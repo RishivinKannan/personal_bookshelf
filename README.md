@@ -53,4 +53,4 @@ and maintain a personal bookshelf in the browser using localStorage.
 2. **View the Application:**
 
 
-    Open your web browser and go to `http://localhost:3000` (by default, unless configured otherwise).
+    Open your web browser and go to `http://localhost:5173` (by default, unless configured otherwise).
